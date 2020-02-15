@@ -1,0 +1,47 @@
+Мой Мир 
+//*[@id="ph_my"]/span
+
+Все проекты 
+//*[@id="PH_projectsMenu_button"]/i[2]
+
+Картинки 
+//*[@id="search__categories"]/a[2]
+
+Кнопка поиска
+//*[@class="search__icon"]
+
+Иконка календаря
+//*[@id="auth"]/div[1]/a[2]
+
+Поле "Имя ящика"
+//*[@id="mailbox:login"]
+
+Забыли пароль?
+//body/div[2]/div[2]/div[1]/div[1]/div[2]/form/div[3]/div[5]/a
+
+Агент Mail.ru
+//*[@id="projects"]/a[4]/div/h3
+
+Браузер Атом
+/html/body/div[2]/div[3]/div[1]/div
+
+Люди
+//*[@id="grid:middle"]/div[2]/div[3]/div[1]/a[4]
+
+...
+//*[@id="grid:middle"]/div[2]/div[3]/div[1]/div/span
+
+кнопка [Найти]
+//*[@id="search:submit"]
+
+Спорт
+//*[@id="grid:middle"]/div[2]/div[3]/ul/li[10]/div/a[1]
+
+Реклама внизу страницы
+//*[@class="tgb__title"]
+
+Валюта
+//*[@id="grid:middle"]/div[2]/div[3]/div[3]/a[1]/i
+
+О компании
+//*[@id="footer"]/a[1]
